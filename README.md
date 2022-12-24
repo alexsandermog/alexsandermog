@@ -1,7 +1,7 @@
 # _Dev. de Software_
 
 * Desenvolvedor JavaScript Full Stack
-* Engenharia de Software 2/8
+* Acadêmico: Engenharia de Software 
 
 ##
 
